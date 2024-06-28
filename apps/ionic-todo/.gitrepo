@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/Ruderud/ionic-todo.git
+	branch = main
+	commit = cc8c8f1ab862db24eff3f8b2a35c537d493f3522
+	parent = cfadd8b3cd2712e04abff6dca37bf667e84c3c1e
+	method = merge
+	cmdver = 0.4.6
